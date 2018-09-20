@@ -1,0 +1,12 @@
+<Project>
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  
+  <PropertyGroup>
+    <Authors>Jon Galloway</Authors>
+    <Company>Jon Galloway</Company>
+  </PropertyGroup>
+ 
+</Project>
